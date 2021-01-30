@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OurChat</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">Hi there, I\'m using OurChat Apps</string>
+    <string name="display_Name">Display Name</string>
+    <string name="your_status">Your Status</string>
+</resources>
